@@ -1,3 +1,14 @@
-main{
-    background:url(https://www.meganeichiba.jp/assets/img/common/chanto/page-bg.jpg);
+body{
+    background-image: url(https://www.meganeichiba.jp/assets/img/common/chanto/page-bg.jpg);
+}
+.content{
+    display: block;
+    width: 550px;
+    margin: 0 auto; 
+}
+.container{
+    display: block;
+    width: 550px;
+    margin: 0 auto;
+    padding-top: 45px;
 }
