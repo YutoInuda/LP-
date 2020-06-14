@@ -272,3 +272,58 @@ main{
     box-shadow: 20px 20px burlywood; 
     margin-bottom: 70px;
 }
+footer{
+    position: absolute;
+    top: 3600px;
+    left: 0;
+    width: 100%;
+    height: 650px;
+    background-color: whitesmoke;
+}
+footer li{
+    list-style: none;
+}
+footer h2{
+    font-size: 14px;
+    border-bottom: 1px solid black;
+    width: 200px;
+}
+footer li{
+    font-size: 12px;
+    padding-top: 15px;
+}
+.flogo{
+    float: left;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+footer div{
+    float: left;
+    padding: 50px 30px;
+}
+.thing{
+    padding-top: 68px;
+    padding-left: 380px;
+}
+.border7{
+    display: block;
+    position: absolute;
+    top: 100px ;
+    left: 250px;
+    width: 1000px;
+    height: 180px;
+    border-bottom : 1px solid rgb(114, 112, 112);
+}
+.tpo{
+    display: block;
+    position: absolute;
+    top: 470px ;
+    left: 400px;  
+}
+.fb{
+    display: block;
+    position: absolute;
+    top: 470px ;
+    left: 800px; 
+}
