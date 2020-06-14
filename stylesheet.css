@@ -12,3 +12,151 @@ body{
     margin: 0 auto;
     padding-top: 45px;
 }
+.graph{
+    position: relative;
+}
+.box{
+    display: block;
+    width: 950px;
+    height: 1000px;
+    margin: 0 auto;
+    background-color: crimson;
+    margin-top: 50px;
+    border: 5px solid black;
+    box-shadow: 20px 20px burlywood;
+}
+.title{
+    position: absolute;
+    top: 40px;
+    left: 340px;
+}
+.pic{
+    position: absolute;
+    top: -50px;
+    left: 1070px;
+}
+.title2{
+    position: absolute;
+    top: 180px;
+    left: 350px;
+}
+.title3{
+    position: absolute;
+    top: 320px;
+    left: 350px;
+}
+.title4{
+    position: absolute;
+    top: 460px;
+    left: 350px;
+}
+
+.title5{
+    position: absolute;
+    top: 600px;
+    left: 350px;
+}
+.title6{
+    position: absolute;
+    top: 740px;
+    left: 350px;
+}
+.title7{
+    position: absolute;
+    top: 880px;
+    left: 350px;
+}
+.price{
+    display: block;
+    width: 550px;
+    margin: 0 auto;
+    padding-top: 45px;
+}
+.box2{
+    display: block;
+    width: 950px;
+    height: 1000px;
+    margin: 0 auto;
+    margin-top: 50px;
+    border: 5px solid black;
+    box-shadow: 20px 20px burlywood;  
+}
+.com{
+    position: relative;
+}
+.part{
+    position: absolute;
+    top: 185px;
+    left: 420px;
+}
+.info{
+    position: absolute;
+    top: 255px;
+    left: 570px; 
+}
+.part1{
+    position: absolute;
+    top: 400px;
+    left: 400px;
+}
+.part2{
+    position: absolute;
+    top: 400px;
+    left: 870px;
+}
+.part3{
+    position: absolute;
+    top: 750px ;
+    left: 350px;
+}
+.part4{
+    position: absolute;
+    top: 750px;
+    left:800px ;
+}
+.info1{
+    position: absolute;
+    top: 600px;
+    left: 350px;
+}
+.info2{
+    position: absolute;
+    top: 600px;
+    left: 800px;
+}
+.box3{
+    display: block;
+    position: absolute;
+    top: 350px ;
+    left: 320px;
+    width: 370px;
+    height: 340px;
+    border: 5px solid black;
+}
+.box4{
+    display: block;
+    position: absolute;
+    top: 350px ;
+    left: 775px;
+    width: 370px;
+    height: 340px;
+    border: 5px solid black;
+}
+.box5{
+    display: block;
+    position: absolute;
+    top: 725px ;
+    left: 320px;
+    width: 370px;
+    height: 340px;
+    border: 5px solid black; 
+}
+.box6{
+    display: block;
+    position: absolute;
+    top: 725px ;
+    left: 775px;
+    width: 370px;
+    height: 340px;
+    border: 5px solid black; 
+}
