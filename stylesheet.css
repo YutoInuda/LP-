@@ -18,9 +18,9 @@ body{
 .box{
     display: block;
     width: 950px;
-    height: 1000px;
+    height: 980px;
     margin: 0 auto;
-    background-color: crimson;
+    background-color: rgb(207, 37, 71);
     margin-top: 50px;
     border: 5px solid black;
     box-shadow: 20px 20px burlywood;
@@ -32,34 +32,87 @@ body{
 }
 .pic{
     position: absolute;
-    top: -50px;
+    top: -80px;
     left: 1070px;
+}
+.border1{
+    display: block;
+    position: absolute;
+    top: -200px ;
+    left: 265px;
+    width: 950px;
+    height: 340px;
+    border-bottom : 5px dashed black;
 }
 .title2{
     position: absolute;
     top: 180px;
     left: 350px;
 }
+.border2{
+    display: block;
+    position: absolute;
+    top: -60px ;
+    left: 265px;
+    width: 950px;
+    height: 340px;
+    border-bottom : 5px dashed black;
+}
 .title3{
     position: absolute;
     top: 320px;
     left: 350px;
+}
+.border3{
+    display: block;
+    position: absolute;
+    top: 85px ;
+    left: 265px;
+    width: 950px;
+    height: 340px;
+    border-bottom : 5px dashed black;
 }
 .title4{
     position: absolute;
     top: 460px;
     left: 350px;
 }
-
+.border4{
+    display: block;
+    position: absolute;
+    top: 225px ;
+    left: 265px;
+    width: 950px;
+    height: 340px;
+    border-bottom : 5px dashed black;
+}
 .title5{
     position: absolute;
     top: 600px;
     left: 350px;
 }
+.border5{
+    display: block;
+    position: absolute;
+    top: 365px ;
+    left: 265px;
+    width: 950px;
+    height: 340px;
+    border-bottom : 5px dashed black;
+}
 .title6{
     position: absolute;
     top: 740px;
     left: 350px;
+}
+.border6{
+    display: block;
+    position: absolute;
+    top: 505px ;
+    left: 265px;
+    width: 950px;
+    height: 340px;
+    border-bottom : 5px dashed black;
 }
 .title7{
     position: absolute;
@@ -159,4 +212,28 @@ body{
     width: 370px;
     height: 340px;
     border: 5px solid black; 
+}
+.fin{
+    position: relative;
+}
+.shop{
+    display: block;
+    width: 700px;
+    margin: 0 auto;
+    padding-top: 130px; 
+}
+.info3{
+    position: absolute;
+    top: 220px;
+    left: 570px; 
+}
+.box7{
+    display: block;
+    width: 950px;
+    height: 250px;
+    margin: 0 auto;
+    margin-top: -130px;
+    border: 5px solid black;
+    box-shadow: 20px 20px burlywood; 
+    margin-bottom: 70px;
 }
