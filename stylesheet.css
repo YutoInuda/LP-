@@ -158,14 +158,14 @@ main{
     display: block;
     width: 550px;
     margin: 0 auto;
-    padding-top: 45px;
+    padding-top: 60px;
 }
 .box2{
     display: block;
     width: 950px;
     height: 1000px;
     margin: 0 auto;
-    margin-top: 50px;
+    margin-top: 40px;
     border: 5px solid black;
     box-shadow: 20px 20px burlywood;  
 }
